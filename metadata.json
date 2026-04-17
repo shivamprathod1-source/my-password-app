@@ -1,6 +1,0 @@
-{
-  "name": "SecTool: Password Security",
-  "description": "A precision password strength analyzer and secure generator with real-time feedback and entropy calculation.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
-}
